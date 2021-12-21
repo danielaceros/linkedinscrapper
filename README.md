@@ -1,5 +1,5 @@
 # linkedinscrapper
-A ScrapperBOT who scraps works and details from work offers, and save it as .xlsx to C:/
+A ScrapperBOT who scraps Linkedin works and details from work offers, and save it as .xlsx to C:/ path
 # Getting Started
 Download the repo, and install the modules:
 * pip install bs4
