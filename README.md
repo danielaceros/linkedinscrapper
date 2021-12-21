@@ -23,6 +23,6 @@ You will see two different options:
 * 2-Menu with NOT-GUI
 # Scrapping
 Script has two options, or scrap one-time data, so you only have to put the URL, ej. 'https://www.linkedin.com/jobs/...'
-Or ScrapLoop, that scrap data each interval of time you select
+Or ScrapLoop, that scrap data each interval of time you select, so once you put the link, it will be scraping on loop
 # Finishing
 The script will make a directory on you C:/ called 'ScrapperLogs', where it wil put the queries on .xlsx
