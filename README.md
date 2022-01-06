@@ -16,17 +16,17 @@ A ScrapperBOT who scraps Linkedin works and details from work offers, and save i
 ## Getting Started
 Download the repo, and install the modules:
 ```bash
-pip install bs4
-pip install xlsxwriter
-pip install time
-pip install csv
-pip install requests
-pip install pandas
-pip install tkinter
-pip install win32api
-pip install threading
-pip install typing
-pip install tqdm
+pip/pip3 install bs4
+pip/pip3 install xlsxwriter
+pip/pip3 install time
+pip/pip3 install csv
+pip/pip3 install requests
+pip/pip3 install pandas
+pip/pip3 install tkinter
+pip/pip3 install win32api
+pip/pip3 install threading
+pip/pip3 install typing
+pip/pip3 install tqdm
 ```
 ## Running Code
 On directory, with PowerShell or ComandPrompt, do:
